@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RodrigoBrunerTask5</string>
+
+    <string name="form_code">Course code</string>
+    <string name="form_name">Course name</string>
+    <string name="form_duration">Course duration</string>
+    <string name="form_fees">Course fees</string>
+    <string name="form_submit">Submit</string>
+    <string name="display">Display record</string>
+
+    <string name="form_save">Course saved!</string>
+    <string name="form_error">An error occurred while trying to save a course.</string>
+
+    <string name="course_not_found">Course not found.</string>
+    <string name="get_course_error">An error occurred while trying to get a course.</string>
+
+    <string name="show_title">"Last inserted course"</string>
+    <string name="show_button_ok">"OK"</string>
+</resources>
